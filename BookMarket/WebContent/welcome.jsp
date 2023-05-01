@@ -10,7 +10,7 @@
 </head>
 <body>
 <%@ include file="menu.jsp" %>
-<%! String head="µµ¼­ À¥ ¼îÇÎ¸ô";%>
+<%! String head="µµ¼­ À¥ ¼îÇÎ¸ôÀÔ´Ï´Ù";%>
 
 	<div class="jumbotron">
 		<div class="container">
