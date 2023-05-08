@@ -20,7 +20,7 @@
 			
 		}
 		else
-			out.print("세션설정 실패하였습니다");
+			out.print("세션설정 실패하였습니다111");
 	%>
 </body>
 </html>	
